@@ -6,18 +6,18 @@ Agile v Waterfall
 
 What is the difference between Agile and traditional models?
 
-![](traditional)
+![](traditional.png)
 
 What are scrum artifacts?
 
-![](sprint)
+![](sprint.jpg)
 
 
 
 Scrum Team.
 
-![](scrumteam)
+![](scrumteam.png)
 
 How Can We Effectively Gather Requirements?
 
-![](dailyscrum)
+![](dailyscrum.png)
