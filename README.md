@@ -34,4 +34,26 @@ Development Team
 
 How Can We Effectively Gather Requirements?
 
+Some examples of ways we gather requirements are
+
+- Interviews
+- Questioner + Surveys
+- User Observation
+- Document Analysis
+- Workshops
+- Brainstorming
+- Role-Play
+- Use Case and Scenarios
+- Focus Groups
+- Prototyping
+
+The way we use Trello could be one example of how we gather our requirements,
+We also have daily standup which is another example, 
+and also with observations, reviews and feedback.
+
+Why? 
+Gathering requirements set project goals and act as a guide through testing and development,
+wrong or incomplete requirements can create poor user acceptance, increase costs, project delays and possible project failure.
+
+
 ![](dailyscrum.png)
