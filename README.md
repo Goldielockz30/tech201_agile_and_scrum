@@ -7,7 +7,7 @@ Agile v Waterfall
 
 Waterfall is a more traditional approach where the end result is clearly established from the beginning and there was no room for changes.
 This can be a problem with the end product not being of value by the time its available which will cost businesses and waste time and effort.
-
+(explain diagram in my own words)
 
 ![](traditional.png)
 
